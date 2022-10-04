@@ -16,9 +16,9 @@ import qrcode from "./assets/image-qr-code.png";
         />
       </div>
       <div class="px-3 space-y-3 my-5">
-        <h3 class="text-brand-dark-blue font-bold text-xl">
+        <h1 class="text-brand-dark-blue font-bold text-xl">
           Improve you front-end skills by building projects
-        </h3>
+        </h1>
         <p class="text-brand-grayish-blue text-base">
           Scan the QR code to visit Frontend Mentor and take your coding skills
           to the next level
